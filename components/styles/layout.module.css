@@ -1,0 +1,17 @@
+.container {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+    align-items: center;     
+    padding: 50px;
+}
+
+.xyz {    
+    background-color:#D3D3D3;
+}
+
+
+.container h3 {text-align: center; margin-top: unset;}
+.container h5 {text-align: center; text-decoration: underline; color: blue; cursor: pointer;}
+.container p {text-align: center;margin-top: -20px;font-size: 15px;}
+
